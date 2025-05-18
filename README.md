@@ -15,5 +15,4 @@ Technologies Used:
 
 HTML5
 CSS3
-Author:
-your name Raj Varla
+Author: Raj Varla
